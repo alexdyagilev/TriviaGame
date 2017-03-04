@@ -1,0 +1,55 @@
+
+body {
+	background-color: #c14700;
+}
+
+p {
+	color: black;
+	text-align: center;
+	font-size: 18px;
+}
+
+h3 {
+	text-align: center;
+}
+
+.col-md-6 {
+	background-color: white;
+	padding-bottom: 20px;
+	height: 120px;
+	text-align: center;
+}
+
+.col-md-12 {
+	background-color: white;
+	padding-bottom: 20px;
+}
+
+
+.next {
+	float: right;
+}
+
+#secondContainer {
+	margin-top: 20px;
+}
+
+.answers {
+
+}
+
+.jumbotron {
+	height: 180px;
+	text-align: center;
+	color: #9b1900;
+	font-family: 'Lobster', cursive;
+	background-color: #f4c542;
+}
+
+#start {
+	font-size: 35px;
+	text-align: center;
+	/* width: 540px; */
+	float: left;
+	margin-top: 20px;
+	margin-left: 50px;
