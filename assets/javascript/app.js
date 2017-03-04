@@ -116,6 +116,12 @@ function startGame(id){ //Function is called when start button is pressed
 		$("#seconds-remain").html("Time has run out!");
 		$("#startText").html("Click Here to Start the Game!");
 		unanswered += (5 - currentQuestion);
+		$("#first").html("Questions Will Appear Here!")
+		$("#1-a").html("Answer 1");
+		$("#1-b").html("Answer 2");
+		$("#1-c").html("Answer 3");
+		$("#1-d").html("Answer 4");
+
 	}
 	else {
 		timeLeft--;
